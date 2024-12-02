@@ -1,0 +1,94 @@
+[
+{
+    "model": "accounts.user",
+    "pk": 1,
+    "fields": {
+        "password": "pbkdf2_sha256$600000$S58Bg3HwWwXdZFnNfx7hyH$N8ic9+LYuUsIK8ANgWgMZNSGAS9hGN5wgSJySSPS684=",
+        "last_login": "2024-11-27T01:37:57.743Z",
+        "is_superuser": false,
+        "username": "dajeong",
+        "first_name": "",
+        "last_name": "",
+        "email": "",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2024-11-27T01:33:57.285Z",
+        "gender": "f",
+        "groups": [],
+        "user_permissions": [],
+        "followings": [],
+        "favorite_genres": [],
+        "liked_movies": []
+    }
+},
+{
+    "model": "accounts.user",
+    "pk": 2,
+    "fields": {
+        "password": "pbkdf2_sha256$600000$bhFY2ign4Ix5RAMtA4z3rD$ABS3hd4yP318WVO/3ifw8MgMwhgKsst2camBLkqmdJ4=",
+        "last_login": "2024-11-27T01:34:20.333Z",
+        "is_superuser": false,
+        "username": "dahee",
+        "first_name": "",
+        "last_name": "",
+        "email": "",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2024-11-27T01:34:19.662Z",
+        "gender": "f",
+        "groups": [],
+        "user_permissions": [],
+        "followings": [],
+        "favorite_genres": [],
+        "liked_movies": []
+    }
+},
+{
+    "model": "accounts.user",
+    "pk": 3,
+    "fields": {
+        "password": "pbkdf2_sha256$600000$WGlMrqolXK4x6fxQxpqs5i$AA0euhII8V91cqDoRKWZEaLyLvl8LEXY0sYnNwOYq+4=",
+        "last_login": "2024-11-27T01:40:05.201Z",
+        "is_superuser": false,
+        "username": "doyeon",
+        "first_name": "",
+        "last_name": "",
+        "email": "",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2024-11-27T01:40:04.526Z",
+        "gender": "f",
+        "groups": [],
+        "user_permissions": [],
+        "followings": [],
+        "favorite_genres": [],
+        "liked_movies": []
+    }
+},
+{
+    "model": "accounts.user",
+    "pk": 4,
+    "fields": {
+        "password": "pbkdf2_sha256$600000$AJf4z66vzP4cqaFTTsqaBp$LlQitDJrnZ1pfW3HJus1KV80+kQs4SZg2UdJjUwNvH0=",
+        "last_login": "2024-11-27T01:42:30.454Z",
+        "is_superuser": false,
+        "username": "sangho",
+        "first_name": "",
+        "last_name": "",
+        "email": "",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2024-11-27T01:42:29.780Z",
+        "gender": "m",
+        "groups": [],
+        "user_permissions": [],
+        "followings": [],
+        "favorite_genres": [],
+        "liked_movies": [
+            1,
+            2,
+            3
+        ]
+    }
+}
+]

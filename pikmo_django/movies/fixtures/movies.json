@@ -1,0 +1,857 @@
+[
+{
+  "model": "movies.movie",
+  "pk": 13,
+  "fields": {
+    "title": "Forrest Gump",
+    "poster_path": "https://image.tmdb.org/t/p/w500/arw2vcBveWOVZr6pxd9XTd1TdQa.jpg",
+    "genre": "Comedy, Drama, Romance",
+    "release_date": "1994-06-23",
+    "overview": "A man with a low IQ has accomplished great things in his life and been present during significant historic events—in each case, far exceeding what anyone imagined he could do. But despite all he has achieved, his one true love eludes him.",
+    "runtime": 142,
+    "budget": 55000000,
+    "revenue": 677387716,
+    "liked_by": []
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 122,
+  "fields": {
+    "title": "The Lord of the Rings: The Return of the King",
+    "poster_path": "https://image.tmdb.org/t/p/w500/rCzpDGLbOoPwLjy3OAm5NUPOTrC.jpg",
+    "genre": "Adventure, Fantasy, Action",
+    "release_date": "2003-12-17",
+    "overview": "As armies mass for a final battle that will decide the fate of the world--and powerful, ancient forces of Light and Dark compete to determine the outcome--one member of the Fellowship of the Ring is revealed as the noble heir to the throne of the Kings of Men. Yet, the sole hope for triumph over evil lies with a brave hobbit, Frodo, who, accompanied by his loyal friend Sam and the hideous, wretched Gollum, ventures deep into the very dark heart of Mordor on his seemingly impossible quest to destroy the Ring of Power.​",
+    "runtime": 201,
+    "budget": 94000000,
+    "revenue": 1118888979,
+    "liked_by": []
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 129,
+  "fields": {
+    "title": "Spirited Away",
+    "poster_path": "https://image.tmdb.org/t/p/w500/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg",
+    "genre": "Animation, Family, Fantasy",
+    "release_date": "2001-07-20",
+    "overview": "A young girl, Chihiro, becomes trapped in a strange new world of spirits. When her parents undergo a mysterious transformation, she must call upon the courage she never knew she had to free her family.",
+    "runtime": 125,
+    "budget": 19000000,
+    "revenue": 274925095,
+    "liked_by": []
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 155,
+  "fields": {
+    "title": "The Dark Knight",
+    "poster_path": "https://image.tmdb.org/t/p/w500/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+    "genre": "Drama, Action, Crime, Thriller",
+    "release_date": "2008-07-16",
+    "overview": "Batman raises the stakes in his war on crime. With the help of Lt. Jim Gordon and District Attorney Harvey Dent, Batman sets out to dismantle the remaining criminal organizations that plague the streets. The partnership proves to be effective, but they soon find themselves prey to a reign of chaos unleashed by a rising criminal mastermind known to the terrified citizens of Gotham as the Joker.",
+    "runtime": 152,
+    "budget": 185000000,
+    "revenue": 1004558444,
+    "liked_by": []
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 238,
+  "fields": {
+    "title": "The Godfather",
+    "poster_path": "https://image.tmdb.org/t/p/w500/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+    "genre": "Drama, Crime",
+    "release_date": "1972-03-14",
+    "overview": "Spanning the years 1945 to 1955, a chronicle of the fictional Italian-American Corleone crime family. When organized crime family patriarch, Vito Corleone barely survives an attempt on his life, his youngest son, Michael steps in to take care of the would-be killers, launching a campaign of bloody revenge.",
+    "runtime": 175,
+    "budget": 6000000,
+    "revenue": 245066411,
+    "liked_by": []
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 240,
+  "fields": {
+    "title": "The Godfather Part II",
+    "poster_path": "https://image.tmdb.org/t/p/w500/hek3koDUyRQk7FIhPXsa6mT2Zc3.jpg",
+    "genre": "Drama, Crime",
+    "release_date": "1974-12-20",
+    "overview": "In the continuing saga of the Corleone crime family, a young Vito Corleone grows up in Sicily and in 1910s New York. In the 1950s, Michael Corleone attempts to expand the family business into Las Vegas, Hollywood and Cuba.",
+    "runtime": 202,
+    "budget": 13000000,
+    "revenue": 102600000,
+    "liked_by": []
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 278,
+  "fields": {
+    "title": "The Shawshank Redemption",
+    "poster_path": "https://image.tmdb.org/t/p/w500/9cqNxx0GxF0bflZmeSMuL5tnGzr.jpg",
+    "genre": "Drama, Crime",
+    "release_date": "1994-09-23",
+    "overview": "Imprisoned in the 1940s for the double murder of his wife and her lover, upstanding banker Andy Dufresne begins a new life at the Shawshank prison, where he puts his accounting skills to work for an amoral warden. During his long stretch in prison, Dufresne comes to be admired by the other inmates -- including an older prisoner named Red -- for his integrity and unquenchable sense of hope.",
+    "runtime": 142,
+    "budget": 25000000,
+    "revenue": 28341469,
+    "liked_by": []
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 346,
+  "fields": {
+    "title": "Seven Samurai",
+    "poster_path": "https://image.tmdb.org/t/p/w500/iAq0sq42vKTLneVGqHn1D4GzgrM.jpg",
+    "genre": "Action, Drama",
+    "release_date": "1954-04-26",
+    "overview": "A samurai answers a village's request for protection after he falls on hard times. The town needs protection from bandits, so the samurai gathers six others to help him teach the people how to defend themselves, and the villagers provide the soldiers with food.",
+    "runtime": 207,
+    "budget": 2000000,
+    "revenue": 2626918,
+    "liked_by": []
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 389,
+  "fields": {
+    "title": "12 Angry Men",
+    "poster_path": "https://image.tmdb.org/t/p/w500/ow3wq89wM8qd5X7hWKxiRfsFf9C.jpg",
+    "genre": "Drama",
+    "release_date": "1957-04-10",
+    "overview": "The defense and the prosecution have rested and the jury is filing into the jury room to decide if a young Spanish-American is guilty or innocent of murdering his father. What begins as an open and shut case soon becomes a mini-drama of each of the jurors' prejudices and preconceptions about the trial, the accused, and each other.",
+    "runtime": 97,
+    "budget": 397751,
+    "revenue": 4360000,
+    "liked_by": []
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 424,
+  "fields": {
+    "title": "Schindler's List",
+    "poster_path": "https://image.tmdb.org/t/p/w500/sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg",
+    "genre": "Drama, History, War",
+    "release_date": "1993-12-15",
+    "overview": "The true story of how businessman Oskar Schindler saved over a thousand Jewish lives from the Nazis while they worked as slaves in his factory during World War II.",
+    "runtime": 195,
+    "budget": 22000000,
+    "revenue": 321365567,
+    "liked_by": []
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 429,
+  "fields": {
+    "title": "The Good, the Bad and the Ugly",
+    "poster_path": "https://image.tmdb.org/t/p/w500/bX2xnavhMYjWDoZp1VM6VnU1xwe.jpg",
+    "genre": "Western",
+    "release_date": "1966-12-22",
+    "overview": "While the Civil War rages on between the Union and the Confederacy, three men – a quiet loner, a ruthless hitman, and a Mexican bandit – comb the American Southwest in search of a strongbox containing $200,000 in stolen gold.",
+    "runtime": 161,
+    "budget": 1200000,
+    "revenue": 38900000,
+    "liked_by": []
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 497,
+  "fields": {
+    "title": "The Green Mile",
+    "poster_path": "https://image.tmdb.org/t/p/w500/8VG8fDNiy50H4FedGwdSVUPoaJe.jpg",
+    "genre": "Fantasy, Drama, Crime",
+    "release_date": "1999-12-10",
+    "overview": "A supernatural tale set on death row in a Southern prison, where gentle giant John Coffey possesses the mysterious power to heal people's ailments. When the cell block's head guard, Paul Edgecomb, recognizes Coffey's miraculous gift, he tries desperately to help stave off the condemned man's execution.",
+    "runtime": 189,
+    "budget": 60000000,
+    "revenue": 286801374,
+    "liked_by": []
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 637,
+  "fields": {
+    "title": "Life Is Beautiful",
+    "poster_path": "https://image.tmdb.org/t/p/w500/74hLDKjD5aGYOotO6esUVaeISa2.jpg",
+    "genre": "Comedy, Drama",
+    "release_date": "1997-12-20",
+    "overview": "A touching story of an Italian book seller of Jewish ancestry who lives in his own little fairy tale. His creative and happy life would come to an abrupt halt when his entire family is deported to a concentration camp during World War II. While locked up he tries to convince his son that the whole thing is just a game.",
+    "runtime": 116,
+    "budget": 20000000,
+    "revenue": 230098753,
+    "liked_by": []
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 680,
+  "fields": {
+    "title": "Pulp Fiction",
+    "poster_path": "https://image.tmdb.org/t/p/w500/d5iIlFn5s0ImszYzBPb8JPIfbXD.jpg",
+    "genre": "Thriller, Crime",
+    "release_date": "1994-09-10",
+    "overview": "A burger-loving hit man, his philosophical partner, a drug-addled gangster's moll and a washed-up boxer converge in this sprawling, comedic crime caper. Their adventures unfurl in three stories that ingeniously trip back and forth in time.",
+    "runtime": 154,
+    "budget": 8500000,
+    "revenue": 213928762,
+    "liked_by": []
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 769,
+  "fields": {
+    "title": "GoodFellas",
+    "poster_path": "https://image.tmdb.org/t/p/w500/aKuFiU82s5ISJpGZp7YkIr3kCUd.jpg",
+    "genre": "Drama, Crime",
+    "release_date": "1990-09-12",
+    "overview": "The true story of Henry Hill, a half-Irish, half-Sicilian Brooklyn kid who is adopted by neighbourhood gangsters at an early age and climbs the ranks of a Mafia family under the guidance of Jimmy Conway.",
+    "runtime": 145,
+    "budget": 25000000,
+    "revenue": 46800000,
+    "liked_by": []
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 11216,
+  "fields": {
+    "title": "Cinema Paradiso",
+    "poster_path": "https://image.tmdb.org/t/p/w500/gCI2AeMV4IHSewhJkzsur5MEp6R.jpg",
+    "genre": "Drama, Romance",
+    "release_date": "1988-11-17",
+    "overview": "A filmmaker recalls his childhood, when he fell in love with the movies at his village's theater and formed a deep friendship with the theater's projectionist.",
+    "runtime": 124,
+    "budget": 5000000,
+    "revenue": 11990401,
+    "liked_by": []
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 12477,
+  "fields": {
+    "title": "Grave of the Fireflies",
+    "poster_path": "https://image.tmdb.org/t/p/w500/k9tv1rXZbOhH7eiCk378x61kNQ1.jpg",
+    "genre": "Animation, Drama, War",
+    "release_date": "1988-04-16",
+    "overview": "In the final months of World War II, 14-year-old Seita and his sister Setsuko are orphaned when their mother is killed during an air raid in Kobe, Japan. After a falling out with their aunt, they move into an abandoned bomb shelter. With no surviving relatives and their emergency rations depleted, Seita and Setsuko struggle to survive.",
+    "runtime": 89,
+    "budget": 3700000,
+    "revenue": 516962,
+    "liked_by": []
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 19404,
+  "fields": {
+    "title": "Dilwale Dulhania Le Jayenge",
+    "poster_path": "https://image.tmdb.org/t/p/w500/lfRkUr7DYdHldAqi3PwdQGBRBPM.jpg",
+    "genre": "Comedy, Drama, Romance",
+    "release_date": "1995-10-20",
+    "overview": "Raj is a rich, carefree, happy-go-lucky second generation NRI. Simran is the daughter of Chaudhary Baldev Singh, who in spite of being an NRI is very strict about adherence to Indian values. Simran has left for India to be married to her childhood fiancé. Raj leaves for India with a mission at his hands, to claim his lady love under the noses of her whole family. Thus begins a saga.",
+    "runtime": 190,
+    "budget": 13200000,
+    "revenue": 100000000,
+    "liked_by": []
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 179387,
+  "fields": {
+    "title": "Heavenly Touch",
+    "poster_path": "https://image.tmdb.org/t/p/w500/ory8WuAqznTE7lfopTSymHpop2t.jpg",
+    "genre": "Drama, Romance",
+    "release_date": "2009-05-12",
+    "overview": "Jonard is having trouble making ends meet. His mother is suffering from depression, and he and his sister are forced to quit school in order to take care of her. One day, Jonard meets up his friend Rodel, and Rodel introduces him to the world of massage parlors. Rodel teaches him massage, and brings him to Heavenly Touch, a syndicate-run massage parlor that mostly caters to homosexuals.",
+    "runtime": 89,
+    "budget": 0,
+    "revenue": 0,
+    "liked_by": []
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 372058,
+  "fields": {
+    "title": "Your Name.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/vfJFJPepRKapMd5G2ro7klIRysq.jpg",
+    "genre": "Animation, Romance, Drama",
+    "release_date": "2016-08-26",
+    "overview": "High schoolers Mitsuha and Taki are complete strangers living separate lives. But one night, they suddenly switch places. Mitsuha wakes up in Taki’s body, and he in hers. This bizarre occurrence continues to happen randomly, and the two must adjust their lives around each other.",
+    "runtime": 106,
+    "budget": 0,
+    "revenue": 358000000,
+    "liked_by": []
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 402431,
+  "fields": {
+    "title": "Wicked",
+    "poster_path": "https://image.tmdb.org/t/p/w500/c5Tqxeo1UpBvnAc3csUm7j3hlQl.jpg",
+    "genre": "Drama, Fantasy, Romance",
+    "release_date": "2024-11-20",
+    "overview": "Elphaba, a young woman misunderstood because of her green skin, and Glinda, a popular aristocrat gilded by privilege, become unlikely friends in the fantastical Land of Oz. As the two women struggle with their opposing personalities, their friendship is tested as both begin to fulfill their destinies as Glinda the Good and the Wicked Witch of the West.",
+    "runtime": 161,
+    "budget": 145000000,
+    "revenue": 164180000,
+    "liked_by": []
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 496243,
+  "fields": {
+    "title": "Parasite",
+    "poster_path": "https://image.tmdb.org/t/p/w500/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
+    "genre": "Comedy, Thriller, Drama",
+    "release_date": "2019-05-30",
+    "overview": "All unemployed, Ki-taek's family takes peculiar interest in the wealthy and glamorous Parks for their livelihood until they get entangled in an unexpected incident.",
+    "runtime": 133,
+    "budget": 11363000,
+    "revenue": 257591776,
+    "liked_by": []
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 519182,
+  "fields": {
+    "title": "Despicable Me 4",
+    "poster_path": "https://image.tmdb.org/t/p/w500/wWba3TaojhK7NdycRhoQpsG0FaH.jpg",
+    "genre": "Animation, Family, Comedy, Action",
+    "release_date": "2024-06-20",
+    "overview": "Gru and Lucy and their girls—Margo, Edith and Agnes—welcome a new member to the Gru family, Gru Jr., who is intent on tormenting his dad. Gru also faces a new nemesis in Maxime Le Mal and his femme fatale girlfriend Valentina, forcing the family to go on the run.",
+    "runtime": 94,
+    "budget": 100000000,
+    "revenue": 1000000000,
+    "liked_by": []
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 533535,
+  "fields": {
+    "title": "Deadpool & Wolverine",
+    "poster_path": "https://image.tmdb.org/t/p/w500/8cdWjvZQUExUUTzyp4t6EDMubfO.jpg",
+    "genre": "Action, Comedy, Science Fiction",
+    "release_date": "2024-07-24",
+    "overview": "A listless Wade Wilson toils away in civilian life with his days as the morally flexible mercenary, Deadpool, behind him. But when his homeworld faces an existential threat, Wade must reluctantly suit-up again with an even more reluctant Wolverine.",
+    "runtime": 128,
+    "budget": 200000000,
+    "revenue": 1337900827,
+    "liked_by": []
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 558449,
+  "fields": {
+    "title": "Gladiator II",
+    "poster_path": "https://image.tmdb.org/t/p/w500/2cxhvwyEwRlysAmRH4iodkvo0z5.jpg",
+    "genre": "Action, Adventure",
+    "release_date": "2024-11-13",
+    "overview": "Years after witnessing the death of the revered hero Maximus at the hands of his uncle, Lucius is forced to enter the Colosseum after his home is conquered by the tyrannical Emperors who now lead Rome with an iron fist. With rage in his heart and the future of the Empire at stake, Lucius must look to his past to find strength and honor to return the glory of Rome to its people.",
+    "runtime": 148,
+    "budget": 310000000,
+    "revenue": 220534715,
+    "liked_by": []
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 592831,
+  "fields": {
+    "title": "Megalopolis",
+    "poster_path": "https://image.tmdb.org/t/p/w500/8Sok3HNA3r1GHnK2lCytHyBz1A.jpg",
+    "genre": "Drama, Science Fiction",
+    "release_date": "2024-09-25",
+    "overview": "Genius artist Cesar Catilina seeks to leap the City of New Rome into a utopian, idealistic future, while his opposition, Mayor Franklyn Cicero, remains committed to a regressive status quo, perpetuating greed, special interests, and partisan warfare. Torn between them is socialite Julia Cicero, the mayor’s daughter, whose love for Cesar has divided her loyalties, forcing her to discover what she truly believes humanity deserves.",
+    "runtime": 138,
+    "budget": 120000000,
+    "revenue": 13736293,
+    "liked_by": []
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 698687,
+  "fields": {
+    "title": "Transformers One",
+    "poster_path": "https://image.tmdb.org/t/p/w500/qbkAqmmEIZfrCO8ZQAuIuVMlWoV.jpg",
+    "genre": "Animation, Science Fiction, Adventure, Family",
+    "release_date": "2024-09-11",
+    "overview": "The untold origin story of Optimus Prime and Megatron, better known as sworn enemies, but once were friends bonded like brothers who changed the fate of Cybertron forever.",
+    "runtime": 104,
+    "budget": 75000000,
+    "revenue": 128888103,
+    "liked_by": []
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 791042,
+  "fields": {
+    "title": "Levels",
+    "poster_path": "https://image.tmdb.org/t/p/w500/2ZdnmSCPm3ZcLc0CcTYqRvoyJLE.jpg",
+    "genre": "Action, Science Fiction, Thriller",
+    "release_date": "2024-11-01",
+    "overview": "After witnessing his girlfriend's murder, a man risks everything - including reality itself - to discover the truth.",
+    "runtime": 92,
+    "budget": 0,
+    "revenue": 0,
+    "liked_by": []
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 814889,
+  "fields": {
+    "title": "Never Let Go",
+    "poster_path": "https://image.tmdb.org/t/p/w500/3EpZ2ksjijmdr8BhISP03PYzNFW.jpg",
+    "genre": "Horror, Drama",
+    "release_date": "2024-09-18",
+    "overview": "As an evil takes over the world beyond their front doorstep, the only protection for a mother and her twin sons is their house and their family’s protective bond.",
+    "runtime": 101,
+    "budget": 20000000,
+    "revenue": 21768945,
+    "liked_by": []
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 823219,
+  "fields": {
+    "title": "Flow",
+    "poster_path": "https://image.tmdb.org/t/p/w500/dzDMewC0Hwv01SROiWgKOi4iOc1.jpg",
+    "genre": "Animation, Fantasy, Adventure",
+    "release_date": "2024-08-29",
+    "overview": "A solitary cat, displaced by a great flood, finds refuge on a boat with various species and must navigate the challenges of adapting to a transformed world together.",
+    "runtime": 85,
+    "budget": 3500000,
+    "revenue": 2639375,
+    "liked_by": []
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 845781,
+  "fields": {
+    "title": "Red One",
+    "poster_path": "https://image.tmdb.org/t/p/w500/cdqLnri3NEGcmfnqwk2TSIYtddg.jpg",
+    "genre": "Action, Comedy, Fantasy",
+    "release_date": "2024-10-31",
+    "overview": "After Santa Claus (codename: Red One) is kidnapped, the North Pole's Head of Security must team up with the world's most infamous bounty hunter in a globe-trotting, action-packed mission to save Christmas.",
+    "runtime": 124,
+    "budget": 250000000,
+    "revenue": 117110550,
+    "liked_by": []
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 912649,
+  "fields": {
+    "title": "Venom: The Last Dance",
+    "poster_path": "https://image.tmdb.org/t/p/w500/aosm8NMQ3UyoBVpSxyimorCQykC.jpg",
+    "genre": "Science Fiction, Action, Adventure",
+    "release_date": "2024-10-22",
+    "overview": "Eddie and Venom are on the run. Hunted by both of their worlds and with the net closing in, the duo are forced into a devastating decision that will bring the curtains down on Venom and Eddie's last dance.",
+    "runtime": 109,
+    "budget": 120000000,
+    "revenue": 456425476,
+    "liked_by": []
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 933260,
+  "fields": {
+    "title": "The Substance",
+    "poster_path": "https://image.tmdb.org/t/p/w500/lqoMzCcZYEFK729d6qzt349fB4o.jpg",
+    "genre": "Drama, Horror, Science Fiction",
+    "release_date": "2024-09-07",
+    "overview": "A fading celebrity decides to use a black market drug, a cell-replicating substance that temporarily creates a younger, better version of herself.",
+    "runtime": 141,
+    "budget": 17500000,
+    "revenue": 54130377,
+    "liked_by": []
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 945961,
+  "fields": {
+    "title": "Alien: Romulus",
+    "poster_path": "https://image.tmdb.org/t/p/w500/b33nnKl1GSFbao4l3fZDDqsMx0F.jpg",
+    "genre": "Horror, Science Fiction",
+    "release_date": "2024-08-13",
+    "overview": "While scavenging the deep ends of a derelict space station, a group of young space colonizers come face to face with the most terrifying life form in the universe.",
+    "runtime": 119,
+    "budget": 80000000,
+    "revenue": 350861031,
+    "liked_by": []
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 957452,
+  "fields": {
+    "title": "The Crow",
+    "poster_path": "https://image.tmdb.org/t/p/w500/58QT4cPJ2u2TqWZkterDq9q4yxQ.jpg",
+    "genre": "Action, Fantasy, Horror",
+    "release_date": "2024-08-21",
+    "overview": "Soulmates Eric and Shelly are brutally murdered when the demons of her dark past catch up with them. Given the chance to save his true love by sacrificing himself, Eric sets out to seek merciless revenge on their killers, traversing the worlds of the living and the dead to put the wrong things right.",
+    "runtime": 111,
+    "budget": 50000000,
+    "revenue": 24008667,
+    "liked_by": []
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 972614,
+  "fields": {
+    "title": "Knox Goes Away",
+    "poster_path": "https://image.tmdb.org/t/p/w500/w39qKYjltCix18BwtoZ1e45usdb.jpg",
+    "genre": "Crime, Thriller, Action",
+    "release_date": "2024-03-15",
+    "overview": "A contract killer, after being diagnosed with a fast-moving form of dementia, is presented with the opportunity to redeem himself by saving the life of his estranged adult son. But to do so, he must race against the police closing in on him as well as the ticking clock of his own rapidly deteriorating mind.",
+    "runtime": 114,
+    "budget": 0,
+    "revenue": 0,
+    "liked_by": []
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 974453,
+  "fields": {
+    "title": "Absolution",
+    "poster_path": "https://image.tmdb.org/t/p/w500/cNtAslrDhk1i3IOZ16vF7df6lMy.jpg",
+    "genre": "Action, Drama, Crime, Thriller",
+    "release_date": "2024-10-31",
+    "overview": "An aging ex-boxer gangster working as muscle for a Boston crime boss receives an upsetting diagnosis.  Despite a faltering memory, he attempts to rectify the sins of his past and reconnect with his estranged children. He is determined to leave a positive legacy for his grandson, but the criminal underworld isn’t done with him and won’t loosen their grip willingly.",
+    "runtime": 112,
+    "budget": 30000000,
+    "revenue": 0,
+    "liked_by": []
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 978796,
+  "fields": {
+    "title": "Bagman",
+    "poster_path": "https://image.tmdb.org/t/p/w500/hzrvol8K2VWm2BsDTwb8YvRMzIH.jpg",
+    "genre": "Horror, Thriller",
+    "release_date": "2024-09-20",
+    "overview": "For centuries and across cultures, parents have warned their children of the legendary Bagman, who snatches innocent children and stuffs them into his vile, rotting bag—never to be seen again. Patrick McKee narrowly escaped such an encounter as a boy, which left him with lasting scars throughout his adulthood. Now, Patrick’s childhood tormentor has returned, threatening the safety of his wife Karina and son Jake.",
+    "runtime": 92,
+    "budget": 14500000,
+    "revenue": 0,
+    "liked_by": []
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 1014505,
+  "fields": {
+    "title": "OVERLORD: The Sacred Kingdom",
+    "poster_path": "https://image.tmdb.org/t/p/w500/jEvytxNa5mfW7VAUmDWsZtIdATc.jpg",
+    "genre": "Action, Adventure, Animation, Fantasy",
+    "release_date": "2024-09-20",
+    "overview": "After twelve years of playing his favorite MMORPG game, Momonga logs in for the last time only to find himself transported into its world playing it indefinitely. Throughout his adventures, his avatar ascends to the title of Sorcerer King Ains Ooal Gown. Once prosperous but now on the brink of ruin, The Sacred Kingdom enjoyed years of peace after construction of an enormous wall protecting them from neighboring invasions. But, one day this comes to an end when the Demon Emperor Jaldabaoth arrives with an army of villainous demi-humans. Fearing invasion of their own lands, the neighboring territory of the Slane Theocracy is forced to beg their enemies at the Sorcerer Kingdom for help. Heeding the call, Momonga, now known as the Sorcerer King Ains Ooal Gown, rallies the Sorcerer Kingdom and its undead army to join the fight alongside the Sacred Kingdom and the Slane Theocracy in hopes to defeat the Demon Emperor.",
+    "runtime": 134,
+    "budget": 0,
+    "revenue": 7484876,
+    "liked_by": []
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 1029235,
+  "fields": {
+    "title": "Azrael",
+    "poster_path": "https://image.tmdb.org/t/p/w500/qpdFKDvJS7oLKTcBLXOaMwUESbs.jpg",
+    "genre": "Action, Horror, Thriller",
+    "release_date": "2024-09-27",
+    "overview": "In a world where no one speaks, a devout female hunts down a young woman who has escaped her imprisonment. Recaptured by its ruthless leaders, Azrael is due to be sacrificed to pacify an ancient evil deep within the surrounding wilderness.",
+    "runtime": 86,
+    "budget": 12000000,
+    "revenue": 631272,
+    "liked_by": []
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 1034541,
+  "fields": {
+    "title": "Terrifier 3",
+    "poster_path": "https://image.tmdb.org/t/p/w500/chvYRyJI1fnBdf9Gt6RerJNEAav.jpg",
+    "genre": "Horror, Thriller",
+    "release_date": "2024-10-09",
+    "overview": "Five years after surviving Art the Clown's Halloween massacre, Sienna and Jonathan are still struggling to rebuild their shattered lives. As the holiday season approaches, they try to embrace the Christmas spirit and leave the horrors of the past behind. But just when they think they're safe, Art returns, determined to turn their holiday cheer into a new nightmare. The festive season quickly unravels as Art unleashes his twisted brand of terror, proving that no holiday is safe.",
+    "runtime": 125,
+    "budget": 2000000,
+    "revenue": 87261211,
+    "liked_by": []
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 1047373,
+  "fields": {
+    "title": "The Silent Hour",
+    "poster_path": "https://image.tmdb.org/t/p/w500/j736cRzBtEPCm0nHnpRN1prqiqj.jpg",
+    "genre": "Crime, Thriller, Action",
+    "release_date": "2024-10-03",
+    "overview": "While working a case as an interpreter, a hearing-impaired police detective must confront a group of criminals trying to eliminate a deaf murder witness in her apartment building.",
+    "runtime": 95,
+    "budget": 0,
+    "revenue": 0,
+    "liked_by": []
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 1051896,
+  "fields": {
+    "title": "Arcadian",
+    "poster_path": "https://image.tmdb.org/t/p/w500/spWV1eRzlDxvai8LbxwAWR0Vst4.jpg",
+    "genre": "Action, Horror, Thriller, Science Fiction",
+    "release_date": "2024-04-12",
+    "overview": "In the near future, on a decimated Earth, Paul and his twin sons face terror at night when ferocious creatures awaken. When Paul is nearly killed, the boys come up with a plan for survival, using everything their father taught them to keep him alive.",
+    "runtime": 92,
+    "budget": 0,
+    "revenue": 859453,
+    "liked_by": []
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 1064028,
+  "fields": {
+    "title": "Subservience",
+    "poster_path": "https://image.tmdb.org/t/p/w500/gBenxR01Uy0Ev9RTIw6dVBPoyQU.jpg",
+    "genre": "Science Fiction, Thriller, Horror",
+    "release_date": "2024-08-15",
+    "overview": "With his wife out sick, a struggling father brings home a lifelike AI, only to have his self-aware new help want everything her new family has to offer... Like the affection of her owner and she'll kill to get it.",
+    "runtime": 105,
+    "budget": 4400000,
+    "revenue": 262793,
+    "liked_by": []
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 1084736,
+  "fields": {
+    "title": "The Count of Monte-Cristo",
+    "poster_path": "https://image.tmdb.org/t/p/w500/zw4kV7npGtaqvUxvJE9IdqdFsNc.jpg",
+    "genre": "Action, Adventure, Drama, History, Romance, Thriller",
+    "release_date": "2024-06-28",
+    "overview": "Edmond Dantes becomes the target of a sinister plot and is arrested on his wedding day for a crime he did not commit. After 14 years in the island prison of Château d’If, he manages a daring escape. Now rich beyond his dreams, he assumes the identity of the Count of Monte-Cristo and exacts his revenge on the three men who betrayed him.",
+    "runtime": 178,
+    "budget": 46700000,
+    "revenue": 74885636,
+    "liked_by": []
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 1100099,
+  "fields": {
+    "title": "We Live in Time",
+    "poster_path": "https://image.tmdb.org/t/p/w500/oeDNBgnlGF6rnyX1P1K8Vl2f3lW.jpg",
+    "genre": "Romance, Drama, Comedy",
+    "release_date": "2024-10-10",
+    "overview": "An up-and-coming chef and a recent divorcée find their lives forever changed when a chance encounter brings them together, in a decade-spanning, deeply moving romance.",
+    "runtime": 108,
+    "budget": 20000000,
+    "revenue": 29657889,
+    "liked_by": []
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 1100782,
+  "fields": {
+    "title": "Smile 2",
+    "poster_path": "https://image.tmdb.org/t/p/w500/ht8Uv9QPv9y7K0RvUyJIaXOZTfd.jpg",
+    "genre": "Horror, Mystery",
+    "release_date": "2024-10-16",
+    "overview": "About to embark on a new world tour, global pop sensation Skye Riley begins experiencing increasingly terrifying and inexplicable events. Overwhelmed by the escalating horrors and the pressures of fame, Skye is forced to face her dark past to regain control of her life before it spirals out of control.",
+    "runtime": 127,
+    "budget": 28000000,
+    "revenue": 135859010,
+    "liked_by": []
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 1114513,
+  "fields": {
+    "title": "Speak No Evil",
+    "poster_path": "https://image.tmdb.org/t/p/w500/fDtkrO2OAF8LKQTdzYmu1Y7lCLB.jpg",
+    "genre": "Horror, Thriller",
+    "release_date": "2024-09-11",
+    "overview": "When an American family is invited to spend the weekend at the idyllic country estate of a charming British family they befriended on vacation, what begins as a dream holiday soon warps into a snarled psychological nightmare.",
+    "runtime": 110,
+    "budget": 15000000,
+    "revenue": 76743256,
+    "liked_by": []
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 1116490,
+  "fields": {
+    "title": "Cash Out",
+    "poster_path": "https://image.tmdb.org/t/p/w500/xBJnIvRdL0nDHgvivr6EgBQizes.jpg",
+    "genre": "Action, Thriller",
+    "release_date": "2024-04-26",
+    "overview": "Criminal mastermind Mason is about to execute the score of a lifetime when his lover and key member of his crew, Decker, takes the team down and reveals she’s an undercover Interpol agent. Heartbroken, Mason escapes and retires from the life of crime until his younger brother Shawn is out of his league taking on a big bank heist all on his own. Mason has no choice left but to come to the rescue, while Interpol brings Decker in hoping to unnerve him. Before the SWAT teams storm the bank, Mason must use every tool in his arsenal to not only escape with the prize, but also the love of his life.",
+    "runtime": 90,
+    "budget": 0,
+    "revenue": 0,
+    "liked_by": []
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 1118031,
+  "fields": {
+    "title": "Apocalypse Z: The Beginning of the End",
+    "poster_path": "https://image.tmdb.org/t/p/w500/wIGJnIFQlESkC2rLpfA8EDHqk4g.jpg",
+    "genre": "Drama, Action, Horror",
+    "release_date": "2024-10-04",
+    "overview": "When a kind of rabies that transforms people into aggressive creatures spreads across the planet, Manel isolates himself at home with his cat, relying on his wits to survive; but soon they must go out in search of food, by land and by sea, dodging many dangers.",
+    "runtime": 119,
+    "budget": 0,
+    "revenue": 0,
+    "liked_by": []
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 1124641,
+  "fields": {
+    "title": "Classified",
+    "poster_path": "https://image.tmdb.org/t/p/w500/3k8jv1kSAAc0rCfFGtWDDQL4dfK.jpg",
+    "genre": "Action, Thriller",
+    "release_date": "2024-09-19",
+    "overview": "Operating alone in the field for more than 20 years, a CIA hitman uses the \"Help Wanted\" section of the newspapers to get his orders from the Agency. His long-lost daughter, now a UK MI6 analyst, tracks him down to deliver shocking news: his CIA boss has been dead for years and the division long since shut down. Together, they set out to discover whose orders he's been executing.",
+    "runtime": 105,
+    "budget": 0,
+    "revenue": 0,
+    "liked_by": []
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 1138194,
+  "fields": {
+    "title": "Heretic",
+    "poster_path": "https://image.tmdb.org/t/p/w500/5HJqjCTcaE1TFwnNh3Dn21be2es.jpg",
+    "genre": "Horror, Thriller",
+    "release_date": "2024-10-31",
+    "overview": "Two young missionaries are forced to prove their faith when they knock on the wrong door and are greeted by a diabolical Mr. Reed, becoming ensnared in his deadly game of cat-and-mouse.",
+    "runtime": 111,
+    "budget": 0,
+    "revenue": 31907891,
+    "liked_by": []
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 1184918,
+  "fields": {
+    "title": "The Wild Robot",
+    "poster_path": "https://image.tmdb.org/t/p/w500/wTnV3PCVW5O92JMrFvvrRcV39RU.jpg",
+    "genre": "Animation, Science Fiction, Family",
+    "release_date": "2024-09-12",
+    "overview": "After a shipwreck, an intelligent robot called Roz is stranded on an uninhabited island. To survive the harsh environment, Roz bonds with the island's animals and cares for an orphaned baby goose.",
+    "runtime": 102,
+    "budget": 78000000,
+    "revenue": 317414420,
+    "liked_by": []
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 1196470,
+  "fields": {
+    "title": "Survive",
+    "poster_path": "https://image.tmdb.org/t/p/w500/7fR3KxswtY8OHHZuOUB9td58CRX.jpg",
+    "genre": "Thriller, Adventure, Action, Science Fiction",
+    "release_date": "2024-06-19",
+    "overview": "A couple celebrates their son’s birthday in the middle of the ocean on their boat. A violent storm hits and it brings up hungry creatures from the depths and they fight for their survival.",
+    "runtime": 90,
+    "budget": 5270000,
+    "revenue": 0,
+    "liked_by": []
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 1233327,
+  "fields": {
+    "title": "Matka",
+    "poster_path": "https://image.tmdb.org/t/p/w500/jrHIKDq9xvKJhYBDvYwmAfs8qvr.jpg",
+    "genre": "Action, Crime",
+    "release_date": "2024-11-14",
+    "overview": "Set between the years 1958 and 1982, Matka tells the story of Vasu, who rises from poverty to create a powerful gambling empire in India, ultimately leading the nation into a battle with the government. Based on real events, the tale explores themes of love, moral choices, and the consequences of ambition.",
+    "runtime": 159,
+    "budget": 0,
+    "revenue": 0,
+    "liked_by": []
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 1241982,
+  "fields": {
+    "title": "Moana 2",
+    "poster_path": "https://image.tmdb.org/t/p/w500/m0SbwFNCa9epW1X60deLqTHiP7x.jpg",
+    "genre": "Animation, Adventure, Family, Comedy",
+    "release_date": "2024-11-27",
+    "overview": "After receiving an unexpected call from her wayfinding ancestors, Moana journeys alongside Maui and a new crew to the far seas of Oceania and into dangerous, long-lost waters for an adventure unlike anything she's ever faced.",
+    "runtime": 100,
+    "budget": 0,
+    "revenue": 0,
+    "liked_by": []
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 1292359,
+  "fields": {
+    "title": "Hello, Love, Again",
+    "poster_path": "https://image.tmdb.org/t/p/w500/7R940b9RNNKLDrAI1GmCjOd5ta.jpg",
+    "genre": "Romance, Drama",
+    "release_date": "2024-11-13",
+    "overview": "Five years on from when Joy said goodbye to Ethan and Hong Kong to pursue her dreams in Canada. After fighting for their love to conquer the time, distance and a global shutdown that kept them apart, Joy and Ethan meet again in Canada but realize that they have also changed a lot, individually.",
+    "runtime": 122,
+    "budget": 0,
+    "revenue": 18027218,
+    "liked_by": []
+  }
+}
+]
